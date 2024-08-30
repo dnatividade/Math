@@ -12,6 +12,9 @@
 
 ![relacoes-trigonometricas_2](img/relacoes-trigonometricas_2.png)
 
+### Unidades de Medida e Conversão
+![unidades-medida-conversao](img/unidades-medida-conversao.png)
+
 
 ```
 @dnat
